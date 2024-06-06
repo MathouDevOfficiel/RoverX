@@ -13,7 +13,6 @@
 <!--
 -->
 [![MIT License][license-shield]][license-url]
-[![Discord][My Discord]][https://discord.gg/W3qhEE2j]
 
 
 
